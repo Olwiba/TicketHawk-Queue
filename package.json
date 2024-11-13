@@ -1,0 +1,15 @@
+{
+  "name": "TicketHawk",
+  "version": "1.0.0",
+  "description": "Ticket hawk helps you secure tickets from throttled ticket queues.",
+  "main": "index.js",
+  "repository": "https://github.com/Olwiba/TicketHawk.git",
+  "author": "Olwiba <olwiba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.19.0"
+  }
+}
